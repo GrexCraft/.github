@@ -4,12 +4,10 @@ Grexcraft.net is a german minecraft server network that provides a minecraft ser
 
 # Build
 
-- **CloudSystemService:**
-  [![Java CI with Maven](https://github.com/GrexCraft/CloudSystemService/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/GrexCraft/CloudSystemService/actions/workflows/main.yml)
-- **CloudSystemPlugin:**
-  [![Maven Package](https://github.com/GrexCraft/CloudSystemPlugin/actions/workflows/maven-publish.yml/badge.svg?branch=master)](https://github.com/GrexCraft/CloudSystemPlugin/actions/workflows/maven-publish.yml)
-- **CloudSystemBungee:**
-  [![Maven Package](https://github.com/GrexCraft/CloudSystemBungee/actions/workflows/maven-publish.yml/badge.svg?branch=master)](https://github.com/GrexCraft/CloudSystemBungee/actions/workflows/maven-publish.yml)
+- https://img.shields.io/github/actions/workflow/status/grexcraft/CloudSystemService/maven-publish.yml?label=CloudSystemService&logo=github&style=flat-square
+- https://img.shields.io/github/actions/workflow/status/grexcraft/CloudSystemBungee/maven-publish.yml?label=CloudSystemBungee&logo=github&style=flat-square
+- https://img.shields.io/github/actions/workflow/status/grexcraft/CloudSystemPlugin/maven-publish.yml?label=CloudSystemPlugin&logo=github&style=flat-square
+
 
 # Team
 
