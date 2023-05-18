@@ -10,6 +10,8 @@ Grexcraft.net is a german minecraft server network that provides a minecraft ser
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/grexcraft/CloudSystemPlugin/maven-publish.yml?label=CloudSystemPlugin&logo=github&style=flat-square)
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/grexcraft/CloudSignsPlugin/maven-publish.yml?label=CloudSignsPlugin&logo=github&style=flat-square)
+
 
 # Team
 
